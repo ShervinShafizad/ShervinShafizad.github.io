@@ -1,3 +1,4 @@
+![My Photo] (https://github.com/ShervinShafizad/ShervinShafizad.github.io/blob/main/IMG_20250506_195739.jpg)
 Hi, I'm **Shervin Shafizad** — a 22-year-old indie game developer with strong C# and Unity skills.  
 I love building engaging gameplay systems and interactive experiences.  
 
