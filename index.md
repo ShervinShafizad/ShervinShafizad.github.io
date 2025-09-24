@@ -1,4 +1,3 @@
-![My Photo] (https://raw.githubusercontent.com/ShervinShafizad/ShervinShafizad.github.io/refs/heads/main/IMG_20250506_195739.jpg)
 
 <img src="https://github.com/ShervinShafizad/ShervinShafizad.github.io/raw/main/IMG_20250506_195739.jpg" width="200" style="border-radius:50%">
 
