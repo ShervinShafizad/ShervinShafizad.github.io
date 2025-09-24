@@ -2,12 +2,8 @@
 
 <img src="https://github.com/ShervinShafizad/ShervinShafizad.github.io/raw/main/IMG_20250506_195739.jpg" width="200" style="border-radius:50%">
 
-<img src="[IMG_20250506_195739.jpg](https://github.com/user-attachments/assets/ca12d8ba-360d-4e8f-87f3-74a4cbe4d215)" width="200" style="border-radius:50%">
-
 Hi, I'm **Shervin Shafizad** — a 22-year-old indie game developer with strong C# and Unity skills.  
 I love building engaging gameplay systems and interactive experiences.  
-
-![Image](https://github.com/user-attachments/assets/ca12d8ba-360d-4e8f-87f3-74a4cbe4d215)
 
 
 ---
