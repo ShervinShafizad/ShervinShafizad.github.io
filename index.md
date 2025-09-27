@@ -15,7 +15,7 @@ I love building engaging gameplay systems and interactive experiences.
 
 // gameplay video for stonyteller 
 <video width="640" height="360" controls>
-  <source src="videos/StonytellerGameplayVideo" type="video/mp4">
+  <source src="Videos/StonytellerGameplayVideo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
