@@ -13,9 +13,9 @@ I love building engaging gameplay systems and interactive experiences.
 - ![Screenshot](https://via.placeholder.com/400x200)  
 - (Optional: [Play game on itch](https://shervin-shafizad.itch.io/stonyteller))  
 
-// gameplay video 
+// gameplay video for stonyteller 
 <video width="640" height="360" controls>
-  <source src="https://github.com/user-attachments/assets/cf505215-be98-41d5-a014-cd231b12edb8" type="video/mp4">
+  <source src="videos/StonytellerGameplayVideo" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
