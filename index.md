@@ -11,7 +11,7 @@ I love building engaging gameplay systems and interactive experiences.
 ### Project 1: My Unity Mini Game
 - [GitHub Repo](https://github.com/yourusername/project1)  
 - ![Screenshot](https://via.placeholder.com/400x200)  
-- (Optional: [Play WebGL Demo](#))  
+- (Optional: [Play game on itch](https://shervin-shafizad.itch.io/stonyteller))  
 
 ### Project 2: Another Project
 - [GitHub Repo](https://github.com/yourusername/project2)  
