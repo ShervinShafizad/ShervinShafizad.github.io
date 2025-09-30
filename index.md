@@ -8,7 +8,7 @@ I love building engaging gameplay systems and interactive experiences.
 ---
 
 # Projects
-### Project 1: My Unity Mini Game
+### Project 1: Stonyteller
 - [GitHub Repo](https://github.com/ShervinShafizad/StonytellerRepository)  
 - ![Screenshot](https://via.placeholder.com/400x200)  
 - (Optional: [Play game on itch](https://shervin-shafizad.itch.io/stonyteller))  
@@ -19,7 +19,10 @@ I love building engaging gameplay systems and interactive experiences.
   Your browser does not support the video tag.
 </video>
 
-### Project 2: Another Project
+### Project 2: Level Design project
+<video width="640" height="360" controls>
+  <source src="Videos/LevelDesignGameplayVideo.mp4" type="video/mp4">
+
 - [GitHub Repo](https://github.com/yourusername/project2)  
 - ![Screenshot](https://via.placeholder.com/400x200)  
 
