@@ -26,6 +26,11 @@ I love building engaging gameplay systems and interactive experiences.
 - [GitHub Repo](https://github.com/yourusername/project2)  
 - ![Screenshot](https://via.placeholder.com/400x200)  
 
+### Project 3: Tale of Astathis lands 
+<video width="640" height="360" controls>
+  <source src="Videos/TOALGameplay.mp4" type="video/mp4">
+
+
 ---
 
 # Contact
