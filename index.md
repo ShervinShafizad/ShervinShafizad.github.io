@@ -36,6 +36,23 @@ I love building engaging gameplay systems and interactive experiences.
   Your browser does not support the video tag.
 </video>
 
+
+# Skills
+
+### 🛠️ Proficient
+<p>
+  <i class="devicon-csharp-plain colored" style="font-size:50px; margin-right:15px;"></i>
+  <i class="devicon-unity-plain colored" style="font-size:50px; margin-right:15px;"></i>
+  <i class="devicon-git-plain colored" style="font-size:50px; margin-right:15px;"></i>
+</p>
+
+### 🎨 Familiar
+<p>
+  <i class="devicon-maya-plain colored" style="font-size:50px; margin-right:15px;"></i>
+  <i class="devicon-photoshop-plain colored" style="font-size:50px; margin-right:15px;"></i>
+  <i class="devicon-blender-original colored" style="font-size:50px; margin-right:15px;"></i>
+</p>
+
 ---
 
 # Contact
