@@ -40,23 +40,17 @@ I love building engaging gameplay systems and interactive experiences.
 # Skills
 
 ### Proficient with 
-<img src="logos/csharp.png" width="40">  
-<img src="logos/unity.png" width="40">  
-![C# Logo](logos/csharp.svg)
+<img src="logos/csharp.png" width="80">  
+<img src="logos/git.png" width="80">  
+<img src="logos/unity.png" width="80">  
 
-<p>
-  <i class="devicon-csharp-plain colored" style="font-size:50px; margin-right:15px;"></i>
-  <i class="devicon-unity-plain colored" style="font-size:50px; margin-right:15px;"></i>
-  <i class="devicon-git-plain colored" style="font-size:50px; margin-right:15px;"></i>
-</p>
+
 
 ### Familiar with 
-<img src="https://raw.githubusercontent.com/ShervinShafizad/ShervinShafizad.github.io/main/logos/csharp.svg" width="40">
-<p>
-  <i class="devicon-maya-plain colored" style="font-size:50px; margin-right:15px;"></i>
-  <i class="devicon-photoshop-plain colored" style="font-size:50px; margin-right:15px;"></i>
-  <i class="devicon-blender-original colored" style="font-size:50px; margin-right:15px;"></i>
-</p>
+<img src="logos/maya.png" width="80">  
+<img src="logos/photoshop.png" width="80">  
+<img src="logos/html5.png" width="80">  
+
 
 ---
 
