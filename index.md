@@ -40,16 +40,19 @@ I love building engaging gameplay systems and interactive experiences.
 # Skills
 
 ### Proficient with 
+<p style="text-align:center;">
 <img src="logos/csharp.png" width="80">  
 <img src="logos/git.png" width="80">  
 <img src="logos/unity.png" width="80">  
-
+</p>
 
 
 ### Familiar with 
+<p style="text-align:center;">
 <img src="logos/maya.png" width="80">  
 <img src="logos/photoshop.png" width="80">  
 <img src="logos/html5.png" width="80">  
+</p>
 
 
 ---
