@@ -40,6 +40,8 @@ I love building engaging gameplay systems and interactive experiences.
 # Skills
 
 ### Proficient with 
+<img src="logos/csharp.png" width="40">  
+<img src="logos/unity.png" width="40">  
 ![C# Logo](logos/csharp.svg)
 
 <p>
