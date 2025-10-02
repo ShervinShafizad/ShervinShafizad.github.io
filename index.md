@@ -40,7 +40,8 @@ I love building engaging gameplay systems and interactive experiences.
 # Skills
 
 ### Proficient with 
-<img src="logos/csharp.svg" width="40">  
+![C# Logo](logos/csharp.svg)
+
 <p>
   <i class="devicon-csharp-plain colored" style="font-size:50px; margin-right:15px;"></i>
   <i class="devicon-unity-plain colored" style="font-size:50px; margin-right:15px;"></i>
@@ -48,6 +49,7 @@ I love building engaging gameplay systems and interactive experiences.
 </p>
 
 ### Familiar with 
+<img src="https://raw.githubusercontent.com/ShervinShafizad/ShervinShafizad.github.io/main/logos/csharp.svg" width="40">
 <p>
   <i class="devicon-maya-plain colored" style="font-size:50px; margin-right:15px;"></i>
   <i class="devicon-photoshop-plain colored" style="font-size:50px; margin-right:15px;"></i>
