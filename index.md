@@ -17,6 +17,15 @@ I love building engaging gameplay systems and interactive experiences.
   Your browser does not support the video tag.
 </video>
 
+<details>
+  <summary>See more</summary>
+  <p>
+    Stonyteller is a narrative-driven text adventure with branching choices.  
+    Built in Unity with C#, it features dynamic dialogue, branching storylines,  
+    and a custom-built text management system.  
+  </p>
+</details>
+
 ---
 
 ### Project 2: Level Design Project
@@ -38,17 +47,16 @@ I love building engaging gameplay systems and interactive experiences.
 
 
 # Skills
-
-### Proficient with 
 <p style="text-align:center;">
+### Proficient with 
 <img src="logos/csharp.png" width="80">  
 <img src="logos/git.png" width="80">  
 <img src="logos/unity.png" width="80">  
 </p>
 
 
-### Familiar with 
 <p style="text-align:center;">
+### Familiar with 
 <img src="logos/maya.png" width="80">  
 <img src="logos/photoshop.png" width="80">  
 <img src="logos/html5.png" width="80">  
