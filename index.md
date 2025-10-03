@@ -24,10 +24,10 @@ A 2D puzzle game set in ancient times
 <details>
   <summary>See details</summary>
   <p>
-  -📝Project type: University team project
-  -👥Number of people involed: 2
-  -🕒Development period: 3 Months
-  -🔧My key roles: programmer, system designer, game designer, content writer.
+  -📝Project type: University team project <br>
+  -👥Number of people involed: 2 <br>
+  -🕒Development period: 3 Months <br>
+  -🔧My key roles: programmer, system designer, game designer, content writer <br>
     Stonyteller is a well functioning and Beautiful looking game. I did all the programming related tasks for this project and co-designed the game with my teammate (Stanislav Kulgan). My teammate did all art related tasks himself and we developed this game from start to finish in about three months. 
     I have set the repository of this project to private, so if you want to see my code for this project, contact me directly.
   </p>
@@ -47,10 +47,10 @@ A short 3D project with puzzle solving elements.
 <details>
   <summary>See details</summary>
   <p>
--📝Project type: University solo project
--👥Number of people involed: 1
--🕒Development period: 12 days
--🔧My key roles: programmer, level designer.
+-📝Project type: University solo project <br>
+-👥Number of people involed: 1 <br>
+-🕒Development period: 12 days <br>
+-🔧My key roles: programmer, level designer <br>
   I programmed and developed this project alone under the supervision of a design teacher (Max Bradlue) in a short period of time as a part of my university assignment. 
   This project demonstrates my Unity 3D skills. It's worth mentioning that for designing the environment, I used CGToolKit and not an external software like Maya. The 3D art assets were imported from Unity asset store.
 
@@ -66,12 +66,11 @@ A short 3D project with puzzle solving elements.
 A text based game developed and released for android and windows. 
 <details>
   <summary> See details</summary>
-  -📝Project type: indie solo project
--👥Number of people involed: 1
--🕒Development period: 2 Months.
--🔧My key roles: programmer, story writer.
   <p>
-
+-📝Project type: indie solo project <br>
+-👥Number of people involed: 1 <br>
+-🕒Development period: 2 Months <br>
+-🔧My key roles: programmer, story writer <br>
   Tale of Astathis Lands is a text-based game with immersive story. It was originally developed for Windows, later versions of it were developed for Android. The story of the game was also written entirely by myself, which shows my world building skills and my imaginative thinking.
   </p>
 </details>
