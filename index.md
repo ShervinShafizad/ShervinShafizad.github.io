@@ -28,6 +28,7 @@ A 2D puzzle game set in ancient times
   -👥Number of people involed: 2 <br>
   -🕒Development period: 3 Months <br>
   -🔧My key roles: programmer, system designer, game designer, content writer <br>
+  <br>
     Stonyteller is a well functioning and Beautiful looking game. I did all the programming related tasks for this project and co-designed the game with my teammate (Stanislav Kulgan). My teammate did all art related tasks himself and we developed this game from start to finish in about three months. 
     I have set the repository of this project to private, so if you want to see my code for this project, contact me directly.
   </p>
