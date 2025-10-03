@@ -3,9 +3,9 @@
 Hi, I'm **Shervin Shafizad** — a 22-year-old indie game developer with strong **C#** and **Unity** skills.
 I have more than three and a half years of experience with the Unity game engine. I enjoy programming and I focus on making gameplay elements to create enjoyable experiences for players. On the other hand, I also have a strong imagination which helps me with world building and designing.
 
-Currently, I'm an international student in Berlin with the possibility to work, so I'm highly interested in tech related roles. Making video games is my passion. However, I'm also interested in app or software development jobs where I can work as a programmer.
+Currently, I'm an international student in Berlin with the possibility to work, so I'm highly interested in tech related roles. Making video games is my passion, but I'm also interested in app or software development jobs where I can work as a programmer.
 
-Below you can see some of my projects, all of which were built with Unity:
+Below you can see some of my Unity projects:
 
 ---
 
@@ -24,8 +24,9 @@ A 2D puzzle game set in ancient times
 <details>
   <summary>See details</summary>
   <p>
+  <br>
   -📝Project type: University team project <br>
-  -👥Number of people involed: 2 <br>
+  -👥Team size: 2 <br>
   -🕒Development period: 3 Months <br>
   -🔧My key roles: programmer, system designer, game designer, content writer <br>
   <br>
@@ -48,10 +49,12 @@ A short 3D project with puzzle solving elements.
 <details>
   <summary>See details</summary>
   <p>
+  <br>
 -📝Project type: University solo project <br>
--👥Number of people involed: 1 <br>
+-👥Team size: 1(solo) <br>
 -🕒Development period: 12 days <br>
 -🔧My key roles: programmer, level designer <br>
+<br>
   I programmed and developed this project alone under the supervision of a design teacher (Max Bradlue) in a short period of time as a part of my university assignment. 
   This project demonstrates my Unity 3D skills. It's worth mentioning that for designing the environment, I used CGToolKit and not an external software like Maya. The 3D art assets were imported from Unity asset store.
 
@@ -68,13 +71,17 @@ A text based game developed and released for android and windows.
 <details>
   <summary> See details</summary>
   <p>
+  <br>
 -📝Project type: indie solo project <br>
--👥Number of people involed: 1 <br>
+-👥Team size: 1(solo) <br>
 -🕒Development period: 2 Months <br>
 -🔧My key roles: programmer, story writer <br>
+<br>
   Tale of Astathis Lands is a text-based game with immersive story. It was originally developed for Windows, later versions of it were developed for Android. The story of the game was also written entirely by myself, which shows my world building skills and my imaginative thinking.
   </p>
 </details>
+
+---
 
 # Skills
 ### Proficient with 
