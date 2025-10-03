@@ -66,11 +66,12 @@ A short 3D project with puzzle solving elements.
 A text based game developed and released for android and windows. 
 <details>
   <summary> See details</summary>
-  <p>
--📝Project type: indie solo project
+  -📝Project type: indie solo project
 -👥Number of people involed: 1
 -🕒Development period: 2 Months.
 -🔧My key roles: programmer, story writer.
+  <p>
+
   Tale of Astathis Lands is a text-based game with immersive story. It was originally developed for Windows, later versions of it were developed for Android. The story of the game was also written entirely by myself, which shows my world building skills and my imaginative thinking.
   </p>
 </details>
