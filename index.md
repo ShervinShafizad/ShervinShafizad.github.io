@@ -11,7 +11,7 @@ Below you can see some of my Unity projects:
 
 # Projects
 
-### Project 1: Stonyteller: A 2D puzzle game set in ancient times.
+### Project 1: **Stonyteller** — A 2D puzzle game set in ancient times.
 - [GitHub Repo](https://github.com/ShervinShafizad/StonytellerRepository)  
 - [Play the game online on your browser](https://shervin-shafizad.itch.io/stonyteller)  
 
@@ -36,7 +36,7 @@ Below you can see some of my Unity projects:
 
 ---
 
-### Project 2: Level design project: A short 3D project with puzzle solving elements. 
+### Project 2: Level design project — A short 3D project with puzzle solving elements. 
 - [Play the game online on your browser](https://shervin-shafizad.itch.io/design)
 
 <video width="640" height="360" controls>
@@ -59,7 +59,7 @@ Below you can see some of my Unity projects:
 </details>
 ---
 
-### Project 3: Tale of Astathis Lands: A text based game developed and released for android and windows. 
+### Project 3: Tale of Astathis Lands — A text based game developed and released for android and windows. 
 - [Download the game for android](https://www.amazon.ca/OA-interactive-entertainment-Astathis-lands/dp/B0DL3QQRSM)
 - [Download the game for windows](https://shervin-shafizad.itch.io/tale-of-astathis-lands)
 
