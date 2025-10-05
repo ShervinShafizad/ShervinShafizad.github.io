@@ -86,8 +86,8 @@ Below you can see some of my Unity projects:
 ### Proficient with: C#, Unity, Git
 <p style="text-align:center;">
 <img src="logos/csharp.png" width="80">  
-<img src="logos/git.png" width="80">  
 <img src="logos/unity.png" width="80">  
+<img src="logos/git.png" width="80">  
 </p>
 
 ### Familiar with: Maya, Photoshop, html5
