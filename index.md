@@ -36,7 +36,53 @@ Below you can see some of my Unity projects:
 
 ---
 
-### Project 2: Level design project — A short 3D project with puzzle solving elements. 
+### Project 2: Tale of Astathis Lands — A text based game developed and released for android and windows. 
+- [Download the game for android](https://www.amazon.ca/OA-interactive-entertainment-Astathis-lands/dp/B0DL3QQRSM)
+- [Download the game for windows](https://shervin-shafizad.itch.io/tale-of-astathis-lands)
+
+<video width="640" height="360" controls>
+  <source src="Videos/TOALGameplay.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<details>
+  <summary> See details</summary>
+  <p>
+  <br>
+-📝Project type: indie project <br>
+-👥Team size: 1(solo) <br>
+-🕒Development period: 2 Months <br>
+-🔧My key roles: programmer, story writer <br>
+<br>
+  Tale of Astathis Lands is a text-based game with immersive story. It was originally developed for Windows, later versions of it were developed for Android. The story of the game was also written entirely by myself, which shows my world building skills and my imaginative thinking.
+  </p>
+</details>
+
+---
+
+### Project 3: A little man — A story focus 2D game developed and released for windows. 
+- [Play the game online on your pc browser](https://shervin-shafizad.itch.io/a-little-man)
+
+
+<video width="640" height="360" controls>
+  <source src="Videos/ALittleManGameplayVideo (2).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<details>
+  <summary> See details</summary>
+  <p>
+  <br>
+-📝Project type: University project <br>
+-👥Team size: 2 <br>
+-🕒Development period: 1 week <br>
+-🔧My key roles: programmer, narrative designer <br>
+<br>
+  A little man is a short but memorable experience which deals with the question of existence. I made this game alone with the help of my teammate(Stanislav Kulgan) who provided the art assets for this project. The background music was downloaded from Pixabay. 
+
+  </p>
+</details>
+
+---
+### Project 4: Level design project — A short 3D project with puzzle solving elements. 
 - [Play the game online on your browser](https://shervin-shafizad.itch.io/design)
 
 <video width="640" height="360" controls>
@@ -59,28 +105,6 @@ Below you can see some of my Unity projects:
 </details>
 ---
 
-### Project 3: Tale of Astathis Lands — A text based game developed and released for android and windows. 
-- [Download the game for android](https://www.amazon.ca/OA-interactive-entertainment-Astathis-lands/dp/B0DL3QQRSM)
-- [Download the game for windows](https://shervin-shafizad.itch.io/tale-of-astathis-lands)
-
-<video width="640" height="360" controls>
-  <source src="Videos/TOALGameplay.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<details>
-  <summary> See details</summary>
-  <p>
-  <br>
--📝Project type: indie project <br>
--👥Team size: 1(solo) <br>
--🕒Development period: 2 Months <br>
--🔧My key roles: programmer, story writer <br>
-<br>
-  Tale of Astathis Lands is a text-based game with immersive story. It was originally developed for Windows, later versions of it were developed for Android. The story of the game was also written entirely by myself, which shows my world building skills and my imaginative thinking.
-  </p>
-</details>
-
----
 
 # Skills
 ### Proficient with: C#, Unity, Git
