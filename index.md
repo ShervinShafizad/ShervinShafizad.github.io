@@ -1,6 +1,6 @@
 <img src="https://github.com/ShervinShafizad/ShervinShafizad.github.io/raw/main/IMG_20250506_195739.jpg" width="200" style="border-radius:50%">
 
-Hi, I'm **Shervin Shafizad** — a 22-year-old indie game developer with strong **C#** and **Unity** skills.
+Hi, I'm **Shervin Shafizad** — a 23-year-old indie game developer with strong **C#** and **Unity** skills.
 I have more than three and a half years of experience with the Unity game engine. I enjoy programming and I focus on making gameplay elements to create enjoyable experiences for players. On the other hand, I also have a strong imagination which helps me with world building and designing.
 
 Currently, I'm an international student in Berlin with the possibility to work, so I'm highly interested in tech related roles. Making video games is my passion, but I'm also interested in app or software development jobs where I can work as a programmer.
@@ -10,27 +10,29 @@ Below you can see some of my Unity projects:
 ---
 
 # Projects
+---
 
-### Project 1: **Stonyteller** — A 2D puzzle game set in ancient times.
-- [GitHub Repo](https://github.com/ShervinShafizad/StonytellerRepository)  
-- [Play the game online on your browser](https://shervin-shafizad.itch.io/stonyteller)  
+### Project 1: PTP! — A first-person beat-them-up game with open source code 
+- [Read the open source project code on Github](https://github.com/ShervinShafizad/PTP_Repo_Scripts)
+- [Play the game online on your pc browser](https://shervin-shafizad.itch.io/tale-of-astathis-lands)
+- [private Github repository of the project](https://github.com/ShervinShafizad/streetpunkgamerepo)
 
 <video width="640" height="360" controls>
-  <source src="Videos/StonytellerGameplayVideo.mp4" type="video/mp4">
+  <source src="Videos/PTPGameplayVideo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
 <details>
-  <summary>See details</summary>
+  <summary> See details</summary>
   <p>
   <br>
-  -📝Project type: University team project <br>
-  -👥Team size: 2 <br>
-  -🕒Development period: 3 Months <br>
-  -🔧My key roles: programmer, system designer, game designer, content writer <br>
-  <br>
-    Stonyteller is a well functioning and Beautiful looking game. I did all the programming related tasks for this project and co-designed the game with my teammate (Stanislav Kulgan). My teammate did all art related tasks himself and we developed this game from start to finish in about three months. 
-    I have set the repository of this project to private, so if you want to see my code for this project, contact me directly.
+-📝Project type: indie project <br>
+-👥Team size: 2 <br>
+-🕒Development period: 7 days <br>
+-🔧My key roles: programmer, combat designer, audio designer <br>
+<br>
+  Punch the punks(PTP!) is a first person fighting game with 2D comic-style art set in a 3D environment. 
+  The game has a fairly complex and well-built enemy AI system which demonstrates my ability to write well-structured and scalable code. You can read the code on Github and see how I structured each script. 
+
   </p>
 </details>
 
@@ -58,8 +60,31 @@ Below you can see some of my Unity projects:
 </details>
 
 ---
+### Project 3: **Stonyteller** — A 2D puzzle game set in ancient times.
+- [Play the game online on your browser](https://shervin-shafizad.itch.io/stonyteller)  
+- [private GitHub Repository of the project](https://github.com/ShervinShafizad/StonytellerRepository)  
 
-### Project 3: A little man — A story focus 2D game developed and released for windows. 
+<video width="640" height="360" controls>
+  <source src="Videos/StonytellerGameplayVideo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<details>
+  <summary>See details</summary>
+  <p>
+  <br>
+  -📝Project type: University team project <br>
+  -👥Team size: 2 <br>
+  -🕒Development period: 3 Months <br>
+  -🔧My key roles: programmer, system designer, game designer, content writer <br>
+  <br>
+    Stonyteller is a well functioning and Beautiful looking game. I did all the programming related tasks for this project and co-designed the game with my teammate (Stanislav Kulgan). My teammate did all art related tasks himself and we developed this game from start to finish in about three months. 
+    I have set the repository of this project to private, so if you want to see my code for this project, contact me directly.
+  </p>
+</details>
+
+---
+### Project 4: A little man — A story focus 2D game developed and released for windows. 
 - [Play the game online on your pc browser](https://shervin-shafizad.itch.io/a-little-man)
 
 
@@ -82,7 +107,7 @@ Below you can see some of my Unity projects:
 </details>
 
 ---
-### Project 4: Level design project — A short 3D project with puzzle solving elements. 
+### Project 5: Level design project — A short 3D project with puzzle solving elements. 
 - [Play the game online on your browser](https://shervin-shafizad.itch.io/design)
 
 <video width="640" height="360" controls>
