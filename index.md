@@ -14,7 +14,7 @@ Below you can see some of my Unity projects:
 
 ### Project 1: PTP! — A first-person beat-them-up game with open source code 
 - [Read the open source project code on Github](https://github.com/ShervinShafizad/PTP_Repo_Scripts)
-- [Play the game online on your pc browser](https://shervin-shafizad.itch.io/tale-of-astathis-lands)
+- [Play the game online on your pc browser](https://shervin-shafizad.itch.io/punch-the-punks)
 - [private Github repository of the project](https://github.com/ShervinShafizad/streetpunkgamerepo)
 
 <video width="640" height="360" controls>
