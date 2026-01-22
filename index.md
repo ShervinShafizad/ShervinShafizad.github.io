@@ -3,7 +3,7 @@
 Hi, I'm **Shervin Shafizad** — a 23-year-old indie game developer with strong **C#** and **Unity** skills.
 I have more than three and a half years of experience with the Unity game engine. I enjoy programming and I focus on making gameplay elements to create enjoyable experiences for players. On the other hand, I also have a strong imagination which helps me with world building and designing.
 
-Currently, I'm an international student in Berlin with the possibility to work, so I'm highly interested in tech related roles. Making video games is my passion, but I'm also interested in app or software development jobs where I can work as a programmer.
+Currently, I'm an international student in Berlin with the possibility to work, so I'm highly interested in tech related roles. Making video games is my passion, but I'm also interested in app or software development jobs where I can work as a programmer. As of February of 2026, I'm available for full time work. 
 
 Below you can see some of my Unity projects:
 
@@ -13,9 +13,9 @@ Below you can see some of my Unity projects:
 ---
 
 ### Project 1: PTP! — A first-person beat-them-up game with open source code 
-- [Read the open source project code on Github](https://github.com/ShervinShafizad/PTP_Repo_Scripts)
 - [Play the game online on your pc browser](https://shervin-shafizad.itch.io/punch-the-punks)
-- [private Github repository of the project](https://github.com/ShervinShafizad/streetpunkgamerepo)
+- [Read the open source project code on Github](https://github.com/ShervinShafizad/PTP_Repo_Scripts)
+<!-- [private Github repository of the project](https://github.com/ShervinShafizad/streetpunkgamerepo) -->
 
 <video width="640" height="360" controls>
   <source src="Videos/PTPGameplayVideo.mp4" type="video/mp4">
@@ -28,10 +28,11 @@ Below you can see some of my Unity projects:
 -📝Project type: indie project <br>
 -👥Team size: 2 <br>
 -🕒Development period: 7 days <br>
--🔧My key roles: programmer, combat designer, audio designer <br>
+-🔧My key roles: programmer, combat designer <br>
 <br>
   Punch the punks(PTP!) is a first person fighting game with 2D comic-style art set in a 3D environment. 
-  The game has a fairly complex and well-built enemy AI system which demonstrates my ability to write well-structured and scalable code. You can read the code on Github and see how I structured each script. 
+  I handled programming and technical aspects of the game, while my teammate handled visuals and level design. 
+  The game has a fairly complex enemy AI system which demonstrates my ability to write well-structured and scalable code. You can read the code on Github and see how I structured each script. 
 
   </p>
 </details>
@@ -55,14 +56,14 @@ Below you can see some of my Unity projects:
 -🕒Development period: 2 Months <br>
 -🔧My key roles: programmer, story writer <br>
 <br>
-  Tale of Astathis Lands is a text-based game with immersive story. It was originally developed for Windows, later versions of it were developed for Android. The story of the game was also written entirely by myself, which shows my world building skills and my imaginative thinking.
+  Tale of Astathis Lands is a text-based game with immersive story. It was originally developed for Windows, later versions of it were developed for Android. The story of the game was also written entirely by myself, which shows my imaginative thinking and world building skills.
   </p>
 </details>
 
 ---
 ### Project 3: **Stonyteller** — A 2D puzzle game set in ancient times.
 - [Play the game online on your browser](https://shervin-shafizad.itch.io/stonyteller)  
-- [private GitHub Repository of the project](https://github.com/ShervinShafizad/StonytellerRepository)  
+<!-- [private GitHub Repository of the project](https://github.com/ShervinShafizad/StonytellerRepository) -->
 
 <video width="640" height="360" controls>
   <source src="Videos/StonytellerGameplayVideo.mp4" type="video/mp4">
@@ -79,7 +80,7 @@ Below you can see some of my Unity projects:
   -🔧My key roles: programmer, system designer, game designer, content writer <br>
   <br>
     Stonyteller is a well functioning and Beautiful looking game. I did all the programming related tasks for this project and co-designed the game with my teammate (Stanislav Kulgan). My teammate did all art related tasks himself and we developed this game from start to finish in about three months. 
-    I have set the repository of this project to private, so if you want to see my code for this project, contact me directly.
+    I set the repository of this project to private, so if you want to see my code for this project, contact me directly.
   </p>
 </details>
 
