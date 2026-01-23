@@ -31,8 +31,7 @@ Below you can see some of my Unity projects:
 -🔧My key roles: programmer, combat designer <br>
 <br>
   Punch the punks(PTP!) is a first person fighting game with 2D comic-style art set in a 3D environment. 
-  I handled programming and technical aspects of the game, while my teammate handled visuals and level design. 
-  The game has a fairly complex enemy AI system which demonstrates my ability to write well-structured and scalable code. You can read the code on Github and see how I structured each script. 
+  I handled programming and technical aspects of the game, while my teammate handled visuals and level design. You might want to read the game's code on Github and see how I structured each script. 
 
   </p>
 </details>
@@ -80,7 +79,6 @@ Below you can see some of my Unity projects:
   -🔧My key roles: programmer, system designer, game designer, content writer <br>
   <br>
     Stonyteller is a well functioning and Beautiful looking game. I did all the programming related tasks for this project and co-designed the game with my teammate (Stanislav Kulgan). My teammate did all art related tasks himself and we developed this game from start to finish in about three months. 
-    I set the repository of this project to private, so if you want to see my code for this project, contact me directly.
   </p>
 </details>
 
