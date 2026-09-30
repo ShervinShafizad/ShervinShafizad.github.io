@@ -1,9 +1,9 @@
 <img src="https://github.com/ShervinShafizad/ShervinShafizad.github.io/raw/main/IMG_20250506_195739.jpg" width="200" style="border-radius:50%">
 
 Hi, I'm **Shervin Shafizad** — a 23-year-old indie game developer with strong **C#** and **Unity** skills.
-I have more than three and a half years of experience with the Unity game engine. I enjoy programming and I focus on making gameplay elements to create enjoyable experiences for players. On the other hand, I also have a strong imagination which helps me with world building and designing.
+I have more than four years of experience with the Unity game engine. I enjoy programming and I focus on making gameplay elements to create enjoyable experiences for players. On the other hand, I also have a strong imagination which helps me with world building and designing.
 
-Currently, I'm an international student in Berlin with the possibility to work, so I'm highly interested in tech related roles. Making video games is my passion, but I'm also interested in app or software development jobs where I can work as a programmer. As of February of 2026, I'm available for full time work. 
+Currently, I'm an international student in Berlin with the possibility to work, so I'm highly interested in tech related roles. Making video games is my passion, but I'm also interested in app or software development jobs where I can work as a programmer. I'm available for full time or part-time jobs. 
 
 Below you can see some of my Unity projects:
 
