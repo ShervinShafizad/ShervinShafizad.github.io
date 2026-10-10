@@ -55,7 +55,7 @@ Below you can see some of my Unity projects:
 -🕒Development period: 2 Months <br>
 -🔧My key roles: programmer, story writer <br>
 <br>
-  Tale of Astathis Lands is a text-based game with immersive story. It was originally developed for Windows, later versions of it were developed for Android. The story of the game was also written entirely by myself, which shows my imaginative thinking and world building skills.
+  Tale of Astathis Lands is a text-based game with immersive story. It was originally developed for Windows, later versions of it were developed for Android. The story of the game was also written entirely by myself, which shows my imaginative thinking and world building skills. 
   </p>
 </details>
 
