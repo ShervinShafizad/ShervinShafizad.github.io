@@ -83,7 +83,7 @@ Below you can see some of my most remarkable Unity projects:
 </details>
 
 ---
-### Project 4: Hexed harvest — Hexed harvest: A farming simulator commercial VR game published for VR devices. 
+### Project 4: Hexed harvest — A farming simulator commercial VR game published for VR devices. 
 - [Download the game for VR devcies from Google Play](https://play.google.com/store/apps/details?id=com.thoughtfish.thimblefarm&hl=en)
 
 
