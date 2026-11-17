@@ -5,9 +5,7 @@ I have more than four years of experience with the Unity game engine. I enjoy pr
 
 Currently, I'm based in Berlin and I'm open to work. Relocation to another city is also possible for me. Making video games is my passion, but I'm also interested in app or software development jobs where I can work as a programmer. I'm in my final semseter of studies and Starting from February of 2027, I will be available for full time work. 
 
-Below you can see some of the projects which I worked on, all of them were made with Unity game engine :
-
----d
+Below you can see some of my most remarkable Unity projects:
 
 # Projects
 ---
@@ -25,9 +23,9 @@ Below you can see some of the projects which I worked on, all of them were made 
   <summary> See details</summary>
   <p>
   <br>
--📝Project type: indie project <br>
+-📝Project type: University / indie project <br>
 -👥Team size: 2 <br>
--🕒Development period: 7 days <br>
+-🕒Development period: 2 weeks <br>
 -🔧My key roles: programmer, combat designer <br>
 <br>
   Punch the punks(PTP!) is a first person fighting game with 2D comic-style art set in a 3D environment. 
@@ -50,7 +48,7 @@ Below you can see some of the projects which I worked on, all of them were made 
   <summary> See details</summary>
   <p>
   <br>
--📝Project type: indie project <br>
+-📝Project type: indie / commercial project <br>
 -👥Team size: 1(solo) <br>
 -🕒Development period: 2 Months <br>
 -🔧My key roles: programmer, story writer, publisher <br>
@@ -61,9 +59,9 @@ Below you can see some of the projects which I worked on, all of them were made 
 
 ---
 
-### Project 3: Pumguesser — A text based game developed and released for android and windows. 
-- [Download the game for android from google play](https://play.google.com/store/apps/details?id=com.oainteractiveentertainment.pumguesser&hl=en)
-- [Download an early prototype of the game for windows](https://shervin-shafizad.itch.io/tale-of-astathis-lands)
+### Project 3: Pumguesser — A shape finding game developed and released for android and windows. 
+- [Download the game for android from Google Play](https://play.google.com/store/apps/details?id=com.oainteractiveentertainment.pumguesser&hl=en)
+- [Play an early prototype of the game online on your pc browser on itch.io](https://shervin-shafizad.itch.io/pumguesser)
 
 <video width="640" height="360" controls>
   <source src="Videos/PumguesserGameplayVideo.mp4" type="video/mp4">
@@ -73,14 +71,13 @@ Below you can see some of the projects which I worked on, all of them were made 
   <summary> See details</summary>
   <p>
   <br>
--📝Project type: indie project <br>
+-📝Project type: indie / commercial project <br>
 -👥Team size: 2 <br>
 -🕒Development period: 2 Months <br>
 -🔧My key roles: programmer, game designer, publisher <br>
 <br>
   Pumguesser is a shape finding game developed and released for android devices. This project originated from a weekly University assignment and it was built for windows. Me and my teammate (Stanislav Kulgan) decided to port this game to mobile and invest some of our free time on this project to turn it into a full commercial game which we could publish on google play for android devices. 
-  The audio used in this game are royalty free and were downloaded from Pixabay which are credited in the credits       
-  section. Other than the audio, everything was created by ourselves. 
+  The audio files used in this game are royalty free and were downloaded from Pixabay which are credited in the credits section. Other than the audio, everything was created by ourselves. 
   
   </p>
 </details>
@@ -98,12 +95,12 @@ Below you can see some of the projects which I worked on, all of them were made 
   <summary> See details</summary>
   <p>
   <br>
--📝Project type: University project <br>
--👥Team size: 10+ <br>
--🕒Development period: 3 Months 
+-📝Project type: Company / commercial project <br>
+-👥Team size: 11 - 20 <br>
+-🕒Development period: 3 Months <br>
 -🔧My key roles: programmer <br>
 <br>
-Hexed harvest is a VR project which I worked on during my time as a programmer intern at a Berlin-based company named Thoughtfish. When I joined the company, the game was already in development so I had to familiarize myself with the project’s code base and understand what was going on. In the video above, you can see some of the features which I implemented such as filtering feature for items inside shop, different tile types for the tile map, speech bubble spawning for tiles, etc.  
+Hexed harvest is a VR project which I worked on during my time as a programmer intern at a Berlin-based company named Thoughtfish. When I joined the company, the game was already in development so I had to familiarize myself with the project’s code base and understand what was going on. In the video above, you can see some of the features which I implemented such as filtering feature for the items inside the shop, different tile types for the tile map, speech bubble spawning for tiles, etc.  
 Because the game was being developed for VR devices with weak processing power, the code needed to be highly optimized and maintainable. I worked closely with an experienced programmer who taught me useful programming patterns and optimization techniques. 
 
   </p>
@@ -123,7 +120,7 @@ Because the game was being developed for VR devices with weak processing power, 
   <summary>See details</summary>
   <p>
   <br>
-  -📝Project type: University team project <br>
+  -📝Project type: University project <br>
   -👥Team size: 2 <br>
   -🕒Development period: 3 Months <br>
   -🔧My key roles: programmer, system designer, game designer, content writer <br>
@@ -167,13 +164,13 @@ Because the game was being developed for VR devices with weak processing power, 
   <summary>See details</summary>
   <p>
   <br>
--📝Project type: University solo project <br>
+-📝Project type: University / indie project <br>
 -👥Team size: 1(solo) <br>
 -🕒Development period: 12 days <br>
 -🔧My key roles: programmer, level designer <br>
 <br>
   I programmed and developed this project alone under the supervision of a design teacher (Max Bradlue) in a short period of time as a part of my university assignment. 
-  This project demonstrates my Unity 3D skills. It's worth mentioning that for designing the environment, I used CGToolKit and not an external software like Maya. The 3D art assets were imported from Unity asset store.
+  This project demonstrates my Unity 3D skills. It's worth mentioning that for designing the environment, I used CSGToolKit and not an external software like Maya. The 3D art assets were imported from Unity asset store.
 
   </p>
 </details>
@@ -188,7 +185,7 @@ Because the game was being developed for VR devices with weak processing power, 
 <img src="logos/git.png" width="80">  
 </p>
 
-### Familiar with: Maya, Photoshop, html5
+### Familiar with: Maya, Photoshop, html5, and various other tools
 <p style="text-align:center;">
 <img src="logos/maya.png" width="80">  
 <img src="logos/photoshop.png" width="80">  
