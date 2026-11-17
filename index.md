@@ -108,7 +108,7 @@ Because the game was being developed for VR devices with weak processing power, 
 
 ---
 ### Project 5: **Stonyteller** — A 2D puzzle game set in ancient times.
-- [Play the game online on your browser on itch.io](https://shervin-shafizad.itch.io/stonyteller)  
+- [Play the game online on your pc browser on itch.io](https://shervin-shafizad.itch.io/stonyteller)  
 <!-- [private GitHub Repository of the project](https://github.com/ShervinShafizad/StonytellerRepository) -->
 
 <video width="640" height="360" controls>
@@ -154,7 +154,7 @@ Because the game was being developed for VR devices with weak processing power, 
 
 ---
 ### Project 7: Level design project — A short 3D project with puzzle solving elements. 
-- [Play the game online on your browser](https://shervin-shafizad.itch.io/design)
+- [Play the game online on your pc browser on itch.io](https://shervin-shafizad.itch.io/design)
 
 <video width="640" height="360" controls>
   <source src="Videos/LevelDesignGameplayVideo.mp4" type="video/mp4">
