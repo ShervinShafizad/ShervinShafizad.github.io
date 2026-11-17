@@ -3,17 +3,17 @@
 Hi, I'm **Shervin Shafizad** — a 23-year-old indie game developer with strong **C#** and **Unity** skills.
 I have more than four years of experience with the Unity game engine. I enjoy programming and I focus on making gameplay elements to create enjoyable experiences for players. On the other hand, I also have a strong imagination which helps me with world building and designing.
 
-Currently, I'm an international student in Berlin with the possibility to work, so I'm highly interested in tech related roles. Making video games is my passion, but I'm also interested in app or software development jobs where I can work as a programmer. I'm in my final semseter of studies and Starting from February of 2027, I will be available for full time work. 
+Currently, I'm based in Berlin and I'm open to work. Relocation to another city is also possible for me. Making video games is my passion, but I'm also interested in app or software development jobs where I can work as a programmer. I'm in my final semseter of studies and Starting from February of 2027, I will be available for full time work. 
 
-Below you can see some of my Unity projects:
+Below you can see some of the projects which I worked on, all of them were made with Unity game engine :
 
----
+---d
 
 # Projects
 ---
 
 ### Project 1: PTP! — A first-person beat-them-up game with open source code 
-- [Play the game online on your pc browser](https://shervin-shafizad.itch.io/punch-the-punks)
+- [Play the game online on your pc browser on itch.io](https://shervin-shafizad.itch.io/punch-the-punks)
 - [Read the open source project code on Github](https://github.com/ShervinShafizad/PTP_Repo_Scripts)
 <!-- [private Github repository of the project](https://github.com/ShervinShafizad/streetpunkgamerepo) -->
 
@@ -39,8 +39,8 @@ Below you can see some of my Unity projects:
 ---
 
 ### Project 2: Tale of Astathis Lands — A text based game developed and released for android and windows. 
-- [Download the game for android](https://www.amazon.ca/OA-interactive-entertainment-Astathis-lands/dp/B0DL3QQRSM)
-- [Download the game for windows](https://shervin-shafizad.itch.io/tale-of-astathis-lands)
+- [Download the game for android from Amazon App Store](https://www.amazon.ca/OA-interactive-entertainment-Astathis-lands/dp/B0DL3QQRSM)
+- [Download the game for windows from itch.io](https://shervin-shafizad.itch.io/tale-of-astathis-lands)
 
 <video width="640" height="360" controls>
   <source src="Videos/TOALGameplay.mp4" type="video/mp4">
@@ -53,15 +53,65 @@ Below you can see some of my Unity projects:
 -📝Project type: indie project <br>
 -👥Team size: 1(solo) <br>
 -🕒Development period: 2 Months <br>
--🔧My key roles: programmer, story writer <br>
+-🔧My key roles: programmer, story writer, publisher <br>
 <br>
   Tale of Astathis Lands is a text-based game with immersive story. It was originally developed for Windows, later versions of it were developed for Android. The story of the game was also written entirely by myself, which shows my imaginative thinking and world building skills. 
   </p>
 </details>
 
 ---
-### Project 3: **Stonyteller** — A 2D puzzle game set in ancient times.
-- [Play the game online on your browser](https://shervin-shafizad.itch.io/stonyteller)  
+
+### Project 3: Pumguesser — A text based game developed and released for android and windows. 
+- [Download the game for android from google play](https://play.google.com/store/apps/details?id=com.oainteractiveentertainment.pumguesser&hl=en)
+- [Download an early prototype of the game for windows](https://shervin-shafizad.itch.io/tale-of-astathis-lands)
+
+<video width="640" height="360" controls>
+  <source src="Videos/PumguesserGameplayVideo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<details>
+  <summary> See details</summary>
+  <p>
+  <br>
+-📝Project type: indie project <br>
+-👥Team size: 2 <br>
+-🕒Development period: 2 Months <br>
+-🔧My key roles: programmer, game designer, publisher <br>
+<br>
+  Pumguesser is a shape finding game developed and released for android devices. This project originated from a weekly University assignment and it was built for windows. Me and my teammate (Stanislav Kulgan) decided to port this game to mobile and invest some of our free time on this project to turn it into a full commercial game which we could publish on google play for android devices. 
+  The audio used in this game are royalty free and were downloaded from Pixabay which are credited in the credits       
+  section. Other than the audio, everything was created by ourselves. 
+  
+  </p>
+</details>
+
+---
+### Project 4: Hexed harvest — Hexed harvest: A farming simulator commercial VR game published for VR devices. 
+- [Download the game for VR devcies from Google Play](https://play.google.com/store/apps/details?id=com.thoughtfish.thimblefarm&hl=en)
+
+
+<video width="640" height="360" controls>
+  <source src="Videos/HexedHarvestGameplayVideo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<details>
+  <summary> See details</summary>
+  <p>
+  <br>
+-📝Project type: University project <br>
+-👥Team size: 10+ <br>
+-🕒Development period: 3 Months 
+-🔧My key roles: programmer <br>
+<br>
+Hexed harvest is a VR project which I worked on during my time as a programmer intern at a Berlin-based company named Thoughtfish. When I joined the company, the game was already in development so I had to familiarize myself with the project’s code base and understand what was going on. In the video above, you can see some of the features which I implemented such as filtering feature for items inside shop, different tile types for the tile map, speech bubble spawning for tiles, etc.  
+Because the game was being developed for VR devices with weak processing power, the code needed to be highly optimized and maintainable. I worked closely with an experienced programmer who taught me useful programming patterns and optimization techniques. 
+
+  </p>
+</details>
+
+---
+### Project 5: **Stonyteller** — A 2D puzzle game set in ancient times.
+- [Play the game online on your browser on itch.io](https://shervin-shafizad.itch.io/stonyteller)  
 <!-- [private GitHub Repository of the project](https://github.com/ShervinShafizad/StonytellerRepository) -->
 
 <video width="640" height="360" controls>
@@ -83,8 +133,8 @@ Below you can see some of my Unity projects:
 </details>
 
 ---
-### Project 4: A little man — A story focus 2D game developed and released for windows. 
-- [Play the game online on your pc browser](https://shervin-shafizad.itch.io/a-little-man)
+### Project 6: A little man — A story focus 2D game developed and released for windows. 
+- [Play the game online on your pc browser on itch.io](https://shervin-shafizad.itch.io/a-little-man)
 
 
 <video width="640" height="360" controls>
@@ -106,7 +156,7 @@ Below you can see some of my Unity projects:
 </details>
 
 ---
-### Project 5: Level design project — A short 3D project with puzzle solving elements. 
+### Project 7: Level design project — A short 3D project with puzzle solving elements. 
 - [Play the game online on your browser](https://shervin-shafizad.itch.io/design)
 
 <video width="640" height="360" controls>
